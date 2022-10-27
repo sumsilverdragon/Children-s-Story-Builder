@@ -39,3 +39,5 @@ function findPlace() {
     var n = Math.floor(Math.random() * place.length);
     document.getElementById("place-img").src = place[n];
 }
+
+//to do: create one function to calculate random number within array length

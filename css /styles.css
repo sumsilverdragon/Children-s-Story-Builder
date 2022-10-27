@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+.story-card-column {
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+#main-title {
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+#sub-title {
+    padding: 12px;
+}
