@@ -1,6 +1,7 @@
 //main character image
 const main = new Array("images/main/0.png","images/main/1.png", "images/main/2.png","images/main/3.png", "images/main/4.png","images/main/5.png", 
-"images/main/6.png","images/main/7.png", "images/main/8.png","images/main/9.png", "images/main/10.png","images/main/11.png" );
+"images/main/6.png","images/main/7.png", "images/main/8.png","images/main/9.png", "images/main/10.png","images/main/11.png",
+"images/main/12.png","images/main/13.png", "images/main/14.png","images/main/15.png", "images/main/16.png");
 const mainImage = document.querySelector("#main-img");
 
 function findMain() {

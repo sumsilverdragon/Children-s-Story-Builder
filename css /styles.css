@@ -1,21 +1,43 @@
+/* header */
+header {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: #C8FFD4;
+}
+
 h1 {
     text-align: center;
 }
 
+/* subtitle */
 h4 {
     text-align: center;
 }
 
+#sub-title {
+    padding: 12px;
+}
+
+/* story components */
 .story-card-column {
     padding-top: 12px;
     padding-bottom: 12px;
 }
 
-#main-title {
-    padding-top: 12px;
-    padding-bottom: 12px;
+/* footer */
+footer {
+    display: flex;
+    justify-content: center;
+    background-color: #B1AFFF;
+    color: #C8FFD4;
+    margin-top: 42px;
 }
 
-#sub-title {
-    padding: 12px;
+.footer-paragraph {
+    padding: 5px;
+    margin: 0px;
+}
+
+.footer-link {
+    color: #C8FFD4;
 }
